@@ -26,11 +26,11 @@ author:
   avatar           : "profile.png"
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Psychology Degree, Performing Arts Masters Degree and extensive career as a performer, writer, director and producer both in Brazil and Australia. I have worked with Oscar winning directors such as Walter Salles and Daniela Thomas, as well as participated in multiple international TV Series for streamers such as Netflix and HBO"
+  location         : "Sydney, Australia"
+  employer         : "Independent Researcher, having undertaken studies at USP and UNICAMP"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "gerarodrigues@alumni.usp.br" 
 
   # Academic websites
   academia         : # URL
